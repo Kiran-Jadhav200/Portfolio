@@ -182,10 +182,10 @@ const expCards = [
     title: "Full Stack Developer(Internship)",
     date: "May 2025 - Present",
     responsibilities: [
-      "Built and maintained the complete company website for Xproguard, delivering a modern, responsive user interface.",
-      "Worked closely with UI/UX designers to translate designs into seamless, intuitive user experiences.",
-      "Optimized frontend performance and scalability using EmailJS for form handling—eliminating the need for a backend.",
-      "Managed deployment pipeline using AWS Amplify, with staging and production environments coordinated via Jira for testing and issue tracking.",
+      "Spearheaded a full redesign of xproguard.com using React, TypeScript, Vite & Tailwind CSS from Figma mockups—implementing image lazy-loading and mobile-first styling to boost compile and load times by 30% and cut bounce rate 32%.",
+      "Integrated EmailJS for Contact, Support & Careers forms (including PDF resume uploads) routed to respective teams,elevating form completion rates to 66% and eliminating backend dependencies.",
+      "Established CI/CD pipelines on AWS Amplify and collaborated with QA via Jira to triage 7–10 bugs per cycle—accelerating staging-to-production lead times by 65% and achieving zero-bug launches.",
+      "Developed xproshield.com with React, TypeScript, Tailwind CSS & GSAP animations—led full QA testing and production rollout, resulting in an on-time, flawless launch.",
     ],
   },
   {
@@ -196,11 +196,10 @@ const expCards = [
     title: "Full Stack Developer (Project-Based Internship)",
     date: "Feb 2024 - Apr 2024",
     responsibilities: [
-      "Developed a full-stack job portal during my project-based internship at EY, enabling HR teams to post jobs and manage applicants efficiently.",
-      "Used Next.js, JavaScript, MongoDB, and Tailwind CSS for scalable, responsive, and server-side rendered application development.",
-      "Implemented advanced resume filtering features, improving candidate screening by 20%.",
-      "Built features like resume uploads and user-friendly job application flows.",
-      "Focused on performance optimization, intuitive UX, and real-world deployment practices.",
+      "Architected and deployed a solo-built job portal using Next.js, React, and MongoDB—leveraging server-side rendering and dynamic interactions to enhance platform performance by 35% and reduce average page load times by 40%.",
+      "Elevated HR efficiency by 20% with advanced filtering algorithms and an intuitive Tailwind CSS UI, streamlining candidate screening workflows and cutting time-to-hire from 14 to 11 days.",
+      "Independently delivered 8+ feature iterations on a two-week sprint cadence—conducting requirement analysis, planning, development, and QA to ensure 100% alignment with stakeholder expectations.",
+      "Automated deployments using Bash scripting and GitHub Actions, reducing manual release steps by 40% and achieving zero production errors throughout the project lifecycle.",
     ],
   },
   {
@@ -211,10 +210,10 @@ const expCards = [
     title: "Software & Network Engineer",
     date: "June 2020 - December 2023",
     responsibilities: [
-      "Software Management: Worked on Milestone software for security systems, including configuration of CCTV camera software and access control devices.",
-      "Database Management: Managed back-end data using Microsoft SQL Server, ensuring efficient storage, handling, and retrieval.",
-      "Network Security: Set up secure network infrastructures with end-to-end encryption, VPNs, and active identification/removal of network vulnerabilities.",
-      "Server Management: Migrated server operating systems, conducted on-site server inspections, and ensured optimal server performance.",
+      "Configured Milestone VMS (Video Management Software) and thermal camera systems to meet project specifications, ensuring accurate video capture and temperature monitoring.",
+      "Implemented the VMS platform end-to-end and integrated it with third-party security systems, demonstrating interoperability across devices.Conducted on-site installs and configuration tasks for CCTV cameras and access control devices under the Milestone framework.",
+      "Managed back-end data flows and ensured system reliability during deployment, contributing to a successful, on-time project delivery.",
+      "Demonstrated strong self-motivation and software skills, completing all assigned tasks ahead of schedule and exceeding performance expectations.",
     ],
   },
 ];

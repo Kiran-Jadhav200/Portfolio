@@ -96,7 +96,7 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>Human Safety Andorid app </h2>
+              <h2>Human Safety Android app </h2>
             </div>
           </div>
         </div>
